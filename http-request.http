@@ -1,0 +1,13 @@
+###
+POST http://localhost:8080/api/arrays/temperature
+Content-Type: application/json
+
+[
+  36,12,3
+
+]
+
+<> 2025-05-01T043447.404.json
+<> 2025-04-30T183823.404.json
+
+###
